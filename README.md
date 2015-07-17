@@ -1,2 +1,3 @@
 # FALCON
-sistema de facturacion Powerw
+sistema de facturacion Power
+mi primer archivo en github
